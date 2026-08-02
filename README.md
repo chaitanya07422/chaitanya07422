@@ -1,174 +1,251 @@
-# Hi, I'm Chaitanya 👋
+<!-- README for github.com/chaitanya07422 -->
 
-🚀 **Full-Stack Developer | Backend Engineer | AI Enthusiast**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2F81F7&height=220&section=header&text=Chaitanya%20Kadavakollu&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%2B%20AI%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9" alt="header banner" width="100%" />
+</p>
 
-Passionate about building scalable software products, modern backend systems, and AI-powered applications. Experienced in full-stack development, backend engineering, AI integration, and cloud-native application development using Java, Python, Node.js, NestJS, Fastify, React, PostgreSQL, MongoDB, Redis, Qt/QML, and Google Cloud Platform (GCP).
+<div align="center">
 
-Currently focused on building AI-powered SaaS products, autonomous AI agents, and intelligent automation platforms.
+<a href="https://www.linkedin.com/in/chaitanya-kadavakollu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://chaitanya-portfolio-2es6.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:kadavkolluchaitanya@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=chaitanya07422&style=flat-square&color=2F81F7&label=Profile+Views" alt="Profile views" />
 
----
+<br/>
 
-# 💼 Currently Working On
+<img src="https://img.shields.io/github/followers/chaitanya07422?style=flat-square&logo=github&color=2F81F7&label=followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/chaitanya07422?style=flat-square&logo=github&color=2F81F7&label=stars" alt="stars" />
 
-### Software Developer at PocketRocket Labs
+</div>
 
-Building AI-powered learning applications for Oriel (KEA), an educational ecosystem designed for children aged 5–14 running on handheld devices.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
-### Responsibilities & Contributions
+## About
 
-* Developing interactive child-facing applications using Qt/QML and C++
-* Building AI-powered educational experiences including AI tutors, quizzes, journals, podcasts, and learning modules
-* Creating responsive UI systems optimized for handheld learning devices
-* Developing parent dashboards and real-time student progress tracking
-* Designing scalable backend architectures and production APIs
-* Working with NestJS, MongoDB, PostgreSQL, Redis, gRPC, and Google Cloud Platform
-* Building AI-powered workflows and adaptive learning systems
-* Implementing vector search using Qdrant for semantic retrieval
-* Developing scalable backend infrastructure and deployment pipelines
-* Contributing to Docker-based deployment workflows
-* Optimizing backend scalability, AI performance, and application reliability
+Backend-focused software engineer building AI-powered products at the intersection of large language models, distributed systems, and cloud infrastructure. I care about software that is fast, reliable, and genuinely useful — not just technically interesting.
 
----
+Currently: Software Developer at **PocketRocket Labs**, working on an AI-driven educational platform for children.
 
-# 🚀 Personal SaaS Project
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
-## 🤖 JobPilot AI – AI-Powered Job Application Automation Platform *(In Progress)*
+## Currently Building
 
-A full-stack SaaS platform that automates the entire job application process using AI agents. The platform helps job seekers discover relevant opportunities, optimize resumes, generate personalized cover letters and emails, automatically apply for jobs, and track applications from a single dashboard.
+**AI-powered educational platform — PocketRocket Labs**
 
-### Features
+Backend systems powering AI-driven learning experiences for a children's education product.
 
-* 🤖 AI-powered job search and recommendation engine
-* 📄 ATS-friendly resume analysis and optimization
-* ✍️ AI-generated resumes and personalized cover letters
-* 📧 Automated job application email generation
-* 🚀 One-click and automated job application workflows
-* 📊 Job application tracking dashboard
-* 🎯 AI interview preparation and feedback
-* 📅 Interview scheduling and reminders
-* 🔍 Resume-job matching and skill gap analysis
-* 👤 User authentication and profile management
-* 📂 Secure resume and document management
-* ☁️ Cloud-native SaaS architecture with scalable backend APIs
+- Production backend APIs (NestJS, gRPC) serving AI tutor, journal, and podcast experiences
+- Vector and semantic search infrastructure (Qdrant) for personalized content retrieval
+- Adaptive learning and learning-analytics pipelines
+- Deployment pipelines and cloud infrastructure on GCP, with Vertex AI-backed workflows
 
-**Tech Stack**
+<sub>Implementation details are kept high-level out of respect for company confidentiality.</sub>
 
-Node.js • NestJS • TypeScript • React • PostgreSQL • Redis • Docker • Google Cloud Platform • REST APIs • AI Agents • LLM Integration
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
----
+## Engineering Philosophy
 
-# 🌱 Exploring & Learning
+> Ship impact, not just code. Every system should solve a problem someone actually has.
+>
+> AI earns its place, it isn't the headline. LLMs and RAG are worth using only when they make a product measurably better.
+>
+> Design for the scale you'll need, not the scale that sounds impressive.
+>
+> Own the full path of a problem — from backend architecture to the automation and infra that ships it.
 
-* AI Agents & Autonomous Systems
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Model Context Protocol (MCP)
-* Agentic AI Workflows
-* Advanced Backend Engineering
-* Distributed Systems
-* Cloud Infrastructure & DevOps
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
----
+## Featured Projects
 
-# 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Languages
+### JobPilot AI
+<sub>in progress</sub>
 
-Java • Python • JavaScript • TypeScript • SQL • C++
+AI-powered SaaS platform automating resume optimization, cover-letter and email generation, job applications, and interview prep end to end.
 
-## Backend
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 
-Node.js • NestJS • Fastify • REST APIs • gRPC • PostgreSQL • MongoDB • Redis
+</td>
+<td width="50%" valign="top">
 
-## Frontend & UI
+### AI YouTube Content Pipeline
+<sub>in progress</sub>
 
-React • Tailwind CSS • Qt/QML
+Backend automation platform for AI-assisted content research, script generation, and publishing workflows.
 
-## AI & Cloud
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 
-Machine Learning • NLP • Generative AI • AI Agents • Google Cloud Platform (GCP)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Tools & Platforms
+### IMDb Review Sentiment Analysis
 
-Git • GitHub • Docker • VS Code • IntelliJ IDEA • PyCharm
+NLP sentiment classifier for movie reviews using logistic regression.
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-2C3E50?style=flat-square" />
 
-# 📌 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-### 🤖 JobPilot AI *(In Progress)*
+### Resume Screening with NLP
 
-An AI-powered SaaS platform that automates job discovery, resume optimization, cover letter generation, application submission, interview preparation, and application tracking using intelligent AI workflows.
+NLP-based system for ranking and matching resumes against job descriptions.
 
-**Tech:** Node.js • NestJS • React • PostgreSQL • Redis • Docker • Google Cloud • AI Agents
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-2C3E50?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine%20Learning-2C3E50?style=flat-square" />
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 IMDb Review Sentiment Analysis
+### NASA Space Apps — Landsat Comparison Tool
 
-Machine learning application for sentiment classification of movie reviews using NLP preprocessing and Logistic Regression.
+Web app comparing Landsat satellite imagery against ground observations, built as team lead.
 
-**Tech:** Python • Scikit-learn • NLTK
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📄 Resume Screening using Machine Learning
+### Backend Boilerplate
 
-Resume ranking system using Natural Language Processing for candidate-job matching.
+Production-ready NestJS starter with auth, caching, Docker, and Swagger built in.
 
-**Tech:** Python • Machine Learning • NLP
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
----
+</td>
+</tr>
+</table>
 
-### 🌍 NASA Landsat Data Platform
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
-Web application developed during NASA Space Apps Challenge to compare Landsat satellite imagery with ground observations.
+## Tech Stack
 
-**Tech:** Python • Flask • HTML • CSS • JavaScript
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,ts,js,py,cpp" alt="languages" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastify,graphql,grpc" alt="backend" /></td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="data" /></td>
+</tr>
+<tr>
+<td><b>AI / Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=gcp,docker" alt="ai and cloud" /></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,tailwind,qt" alt="frontend" /></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="tools" /></td>
+</tr>
+</table>
 
----
+<sub>AI stack in production use: Vertex AI, Gemini, RAG, Qdrant vector search.</sub>
 
-### 🖥️ Qt/QML Portfolio Application
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
-Desktop portfolio application developed using Qt/QML with reusable UI components.
+## GitHub Activity
 
-**Tech:** Qt/QML • C++
+<div align="center">
 
----
+<img src="https://github-trophies.vercel.app/?username=chaitanya07422&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies" />
 
-### ⚡ Scalable Backend Services & APIs
+<br/>
 
-Production-ready backend APIs with authentication, caching, and scalable architecture.
+<img src="https://github-stats-extended.vercel.app/api?username=chaitanya07422&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=chaitanya07422&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165" />
 
-**Tech:** NestJS • Node.js • PostgreSQL • MongoDB • Redis
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chaitanya07422&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanya07422&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" width="100%" />
 
-# 📈 Problem Solving
+</div>
 
-* Solved **130+ LeetCode** problems
-* Strong understanding of Data Structures & Algorithms
-* Passionate about scalable backend systems and clean architecture
-* Continuously learning modern AI and cloud technologies
+<!-- Stats/top-langs now point to github-stats-extended.vercel.app (actively maintained
+     successor to github-readme-stats) and trophies to github-trophies.vercel.app, since
+     the original public instances have documented, ongoing downtime.
+     If the streak card ever breaks, swap streak-stats.demolab.com for
+     https://github-readme-streak-stats-eight.vercel.app as a known-working mirror.
+     For a permanent fix on any of these, fork the repo and deploy your own free
+     instance on Vercel, then use your own .vercel.app domain in the URL. -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
-# 🏆 Experience & Leadership
+## Currently Learning
 
-* Software Developer at PocketRocket Labs
-* Team Lead – NASA Space Apps Challenge Hackathon
-* Internship experience in Web Development, VLSI, and Embedded/UI Systems
-* Building production-grade SaaS and AI-powered applications
-* Strong interest in AI Engineering, Backend Development, and Cloud Architecture
+- AI agents and agentic workflows
+- Retrieval-augmented generation at production scale
+- Distributed systems design
+- Advanced system design for high-throughput services
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
-# 📫 Connect With Me
+## Open Source Goals — 2026
 
-* **LinkedIn:** https://www.linkedin.com/in/chaitanya-kadavakollu/
-* **Portfolio:** https://chaitanya-portfolio-2es6.vercel.app/
-* **Email:** [kadavkolluchaitanya@gmail.com](mailto:kadavkolluchaitanya@gmail.com)
+- Publish the backend boilerplate as a proper open-source starter kit
+- Open source a RAG evaluation utility
+- Make a first meaningful contribution to an established AI/backend infrastructure project
+- Write up architecture deep-dives from production systems work
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
-⭐ Always building, learning, and exploring modern AI-powered software systems.
+## 2026 Goals
+
+- Ship JobPilot AI to production and onboard its first real users
+- Deepen system design fluency for senior-level engineering interviews
+- Cross 200+ solved DSA problems, with focus on graphs and dynamic programming
+- Land a meaningful open-source contribution to AI infrastructure tooling
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
+
+## Fun Facts
+
+- 130+ LeetCode problems solved, mostly in Java
+- Team lead on a NASA Space Apps Challenge project
+- Learns best by finding the right analogy before touching the code
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0d1117&height=120&section=footer" alt="footer banner" width="100%" />
+</p>
+
+<div align="center">
+<sub>Chaitanya Kadavakollu · <a href="https://www.linkedin.com/in/chaitanya-kadavakollu/">LinkedIn</a> · <a href="https://chaitanya-portfolio-2es6.vercel.app/">Portfolio</a> · <a href="mailto:kadavkolluchaitanya@gmail.com">Email</a></sub>
+</div>
