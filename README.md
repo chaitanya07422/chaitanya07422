@@ -976,9 +976,4 @@ $ fortune | cowsay
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39d353&height=100&section=footer)
 
-<sub>
-  Built as a terminal dashboard · Updated for recruiters who read READMEs ·
-  <a href="https://github.com/chaitanya07422">chaitanya07422</a>
-</sub>
-
 </div>
