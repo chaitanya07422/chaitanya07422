@@ -1,4 +1,4 @@
-<!-- README for github.com/chaitanya07422 -->
+<!-- README for github.com/chaitanya07422 --->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2F81F7&height=220&section=header&text=Chaitanya%20Kadavakollu&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%2B%20AI%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9" alt="header banner" width="100%" />
