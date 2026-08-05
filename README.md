@@ -10,7 +10,7 @@
 
 <!-- ── Animated Typing Banner ─────────────────────────────────── -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=Chaitanya+Kadavakollu;Backend+Engineer+%7C+AI+Systems;Distributed+Systems+%7C+Cloud+Infra;$+building+production+AI+systems_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=700&height=50&lines=Chaitanya+Kadavakollu;Backend+Engineer+%7C+AI+Systems;Distributed+Systems+%7C+Cloud+Infra;%24+building+production+AI+systems_)](https://git.io/typing-svg)
 
 <!-- ── ASCII Header ───────────────────────────────────────────── -->
 
@@ -744,8 +744,6 @@ $ gh stats --user chaitanya07422
 ![Snake animation](https://raw.githubusercontent.com/chaitanya07422/chaitanya07422/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-<sub>Snake regenerates daily via GitHub Actions (`output` branch). First run may take a moment after merge.</sub>
 
 ---
 
