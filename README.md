@@ -1,4 +1,4 @@
-<!-- README for github.com/chaitanya07422 --->
+<!-- README for github.com/chaitanya07422 -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2F81F7&height=220&section=header&text=Chaitanya%20Kadavakollu&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20%2B%20AI%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9" alt="header banner" width="100%" />
@@ -49,6 +49,20 @@ Backend systems powering AI-driven learning experiences for a children's educati
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
+## Highlights
+
+```bash
+✔ Backend Developer @ PocketRocket Labs
+✔ Building production AI systems for education
+✔ Team Lead — NASA Space Apps Challenge
+✔ 130+ LeetCode problems solved
+✔ Building JobPilot AI
+✔ Building AI YouTube Content Pipeline
+✔ Open-source focused
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
+
 ## Engineering Philosophy
 
 > Ship impact, not just code. Every system should solve a problem someone actually has.
@@ -58,6 +72,27 @@ Backend systems powering AI-driven learning experiences for a children's educati
 > Design for the scale you'll need, not the scale that sounds impressive.
 >
 > Own the full path of a problem — from backend architecture to the automation and infra that ships it.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
+
+## Current Focus
+
+```bash
+$ ps aux | grep current
+
+Building:
+• AI job applications automation
+• AI content research and publishing workflows
+• Production backend APIs
+• Agentic AI workflows
+• Better system design intuition
+
+Learning:
+• Distributed systems
+• Production RAG
+• AI infrastructure
+• Advanced backend architecture
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2F81F7&height=3&section=header" width="100%" />
 
