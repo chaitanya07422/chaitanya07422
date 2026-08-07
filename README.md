@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<!-- ── Animated Typing Banner ─────────────────────────────────── -->
+<!---- ── Animated Typing Banner ─────────────────────────────────── ------>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=700&height=50&lines=Chaitanya+Kadavakollu;Backend+Engineer+%7C+AI+Systems;Distributed+Systems+%7C+Cloud+Infra;%24+building+production+AI+systems_)](https://git.io/typing-svg)
 
