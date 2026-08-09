@@ -208,14 +208,22 @@ I prefer **clear modular backends** over premature microservices, **AI that earn
 
 ## GitHub activity
 
+<!--
+  Official github-readme-stats.vercel.app is often paused (503).
+  Using community host shion.dev. Cards are public-repo based unless
+  you self-host with a PAT (private commits won't fully show otherwise).
+  Cache: stats ~24h, languages ~6d, streak/graph on their own caches.
+  Snake: updates via .github/workflows/snake.yml (daily cron + push to main).
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanya07422&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" height="160" />
-<img src="https://streak-stats.demolab.com/?user=chaitanya07422&theme=react&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&cache_seconds=1800" alt="GitHub Streak" height="160" />
+<img src="https://github-readme-stats.shion.dev/api?username=chaitanya07422&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats" height="160" />
+<img src="https://streak-stats.demolab.com/?user=chaitanya07422&theme=react&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" height="160" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya07422&layout=compact&theme=react&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chaitanya07422&layout=compact&theme=react&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages" height="160" />
 
 <br/>
 
