@@ -1,7 +1,6 @@
 <!--
   GitHub Profile — chaitanya07422
   Backend · AI Systems · Cloud · Full-Stack
-  Optimized for recruiters and engineering managers (30–60s scan)
 -->
 
 <div align="center">
