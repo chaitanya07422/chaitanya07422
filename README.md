@@ -1,7 +1,7 @@
 <!--
   GitHub Profile — chaitanya07422
   Backend · AI Systems · Cloud · Full-Stack
-  Optimized for clients, recruiters, and engineering managers (30–60s scan)
+  Optimized for recruiters and engineering managers (30–60s scan)
 -->
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 **Software Engineer** building production backends, AI/LLM pipelines, and cloud-deployed products.
 
-I design systems that are **reliable, maintainable, and shippable** — APIs, RAG/vector search, workers, and deployment pipelines clients can trust.
+I design systems that are **reliable, maintainable, and shippable** — APIs, RAG/vector search, workers, and deployment pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-kadavakollu/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://chaitanya-portfolio-2es6.vercel.app/)
@@ -29,7 +29,7 @@ I design systems that are **reliable, maintainable, and shippable** — APIs, RA
 
 ---
 
-## What I deliver for clients
+## What I can deliver
 
 | Capability | Evidence |
 |:-----------|:---------|
@@ -40,7 +40,7 @@ I design systems that are **reliable, maintainable, and shippable** — APIs, RA
 | **Cloud & DevOps** | Docker Compose, GCP / OCI deploy patterns, GitHub Actions → PM2 / GHCR |
 | **Data layer** | MongoDB, PostgreSQL (Prisma), Redis, Qdrant |
 
-> Looking for someone who can own an API, an AI feature, or a deployable product slice end-to-end? That is the work I do day to day.
+> I can own an API, an AI feature, or a deployable product slice end-to-end — that is the work I do day to day.
 
 ---
 
@@ -108,7 +108,7 @@ flowchart LR
 
 ### Local AI Video Studio — self-hosted content pipeline
 
-**Topic → GPT script → local images / TTS / captions → Remotion / FFmpeg MP4**
+**Public repo** · **Topic → GPT script → local images / TTS / captions → Remotion / FFmpeg MP4**
 
 Faceless explainer videos (Shorts + longer Deep Dive formats). Media generation stays on your machine; GPT is used for scripts.
 
@@ -124,7 +124,7 @@ Faceless explainer videos (Shorts + longer Deep Dive formats). Media generation 
 - Resumable / staged pipeline thinking for long-running jobs
 - Dockerized path for a home render server + Mac CLI workflows
 
-🔗 [local-ai-video-studio](https://github.com/chaitanya07422/local-ai-video-studio)
+🔗 [local-ai-video-studio](https://github.com/chaitanya07422/local-ai-video-studio) · **public**
 
 ---
 
@@ -185,7 +185,7 @@ Technologies I use in professional or public projects (not a wishlist).
 ## How I work
 
 ```text
-1. Clarify the outcome     — what “done” means for the client
+1. Clarify the outcome     — what “done” means
 2. Design the thin slice   — API + data + AI + deploy path that ships
 3. Build with boundaries   — modules, queues, and auth planes that stay maintainable
 4. Instrument & harden     — failures, retries, env config, honest status docs
@@ -210,12 +210,12 @@ I prefer **clear modular backends** over premature microservices, **AI that earn
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=chaitanya07422&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=chaitanya07422&theme=react&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanya07422&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" height="160" />
+<img src="https://streak-stats.demolab.com/?user=chaitanya07422&theme=react&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&cache_seconds=1800" alt="GitHub Streak" height="160" />
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chaitanya07422&layout=compact&theme=react&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya07422&layout=compact&theme=react&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" height="160" />
 
 <br/>
 
