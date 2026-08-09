@@ -108,7 +108,7 @@ flowchart LR
 
 ### Local AI Video Studio — self-hosted content pipeline
 
-**Public repo** · **Topic → GPT script → local images / TTS / captions → Remotion / FFmpeg MP4**
+**Private repo** · **Topic → GPT script → local images / TTS / captions → Remotion / FFmpeg MP4**
 
 Faceless explainer videos (Shorts + longer Deep Dive formats). Media generation stays on your machine; GPT is used for scripts.
 
@@ -124,7 +124,7 @@ Faceless explainer videos (Shorts + longer Deep Dive formats). Media generation 
 - Resumable / staged pipeline thinking for long-running jobs
 - Dockerized path for a home render server + Mac CLI workflows
 
-🔗 [local-ai-video-studio](https://github.com/chaitanya07422/local-ai-video-studio) · **public**
+🔗 [local-ai-video-studio](https://github.com/chaitanya07422/local-ai-video-studio) · **private**
 
 ---
 
