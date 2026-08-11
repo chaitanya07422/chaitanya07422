@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=720&height=48&lines=Chaitanya+Kadavakollu;Software+Engineer+%40+PocketRocket+Labs;Backend+%7C+AI+Systems+%7C+Cloud;Available+for+freelance+%26+contract+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=720&height=48&lines=Chaitanya+Kadavakollu;Software+Engineer+%40+PocketRocket+Labs;Backend+%7C+AI+Systems+%7C+Cloud)](https://git.io/typing-svg)
 
 **Software Engineer** building production backends, AI/LLM pipelines, and cloud-deployed products.
 
@@ -21,7 +21,6 @@ I design systems that are **reliable, maintainable, and shippable** — APIs, RA
 |:--|:--|
 | **Role** | Software Engineer @ [PocketRocket Labs](https://pocketrocketlabs.com/) |
 | **Focus** | Backend APIs · AI / RAG · Queues & workers · Cloud deploy |
-| **Open to** | Freelance / contract work in AI apps, full-stack SaaS, APIs, and cloud |
 | **Location** | India · Remote-friendly |
 
 </div>
@@ -206,8 +205,6 @@ I prefer **clear modular backends** over premature microservices, **AI that earn
 ---
 
 ## Contact
-
-Open to **freelance and contract** conversations on AI-powered products, backend/API systems, full-stack SaaS, automation, and cloud deployment.
 
 | Channel | Link |
 |:--------|:-----|
