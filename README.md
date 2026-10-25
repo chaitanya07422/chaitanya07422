@@ -33,6 +33,7 @@ I design systems that are **reliable, maintainable, and shippable** — APIs, RA
 |:-----------|:---------|
 | **Production AI backends** | NestJS services, Gemini / Vertex AI workflows, vector search with Qdrant |
 | **Full product systems** | Multi-repo SaaS (API + web + admin + worker), not demo-only scripts |
+| **Security / detect-only tooling** | Multi-agent URL scanners, JS bundle audit, company-ready briefs (ScanLead) |
 | **APIs & integrations** | REST APIs, JWT / OAuth, job-board sync, Telegram OTP, object storage |
 | **Async & automation** | BullMQ / Redis queues, Playwright workers, resumable media pipelines |
 | **Cloud & DevOps** | Docker Compose, GCP / OCI deploy patterns, GitHub Actions → PM2 / GHCR |
@@ -64,6 +65,41 @@ This is production product engineering under real constraints — latency, cost,
 ## Featured public projects
 
 Public repos that show how I design and ship systems. Status labels match the code, not marketing.
+
+### ScanLead — URL-only multi-agent vulnerability scanner
+
+**Private repos** · **Paste a URL you own → specialist agents → company-ready brief**
+
+Authorized, detect-only scanner (no password sprays, no exploit payloads). FastAPI plugin agents + YAML playbooks feed a Next.js ScanLead UI: ownership attestation, per-agent Clear/Attention summary, LLM explanations, and a high-level abuse path.
+
+| Layer | Stack |
+|:------|:------|
+| API / Lead | FastAPI, plugin agents, YAML playbooks, httpx, RPS limiter, SSRF allowlist |
+| Agents | recon, js_audit, upload, users/auth, leaks, CORS, ports, adapt, reporter |
+| AI | Gemini for Adapt path suggestions + finding explanations / risk narrative |
+| UI | Next.js ScanLead — report.md + audit.json download, no signup |
+| Ops | Optional Mongo + Redis/ARQ workers, Docker Compose |
+
+**Engineering highlights**
+- JS bundle audit finds upload/resume/MIME chains without login; SPA HTML soft-404s rejected
+- Evidence-first upload probes (JSON APIs only) — WordPress theme 404s do not become “upload APIs”
+- Deduped findings + stack-adaptive risk stories; “looks solid” only when zero low+ issues remain
+
+**Repos**
+- [vuln-agent](https://github.com/chaitanya07422/vuln-agent) (API / agents) · **private**
+- [vuln-agent-web](https://github.com/chaitanya07422/vuln-agent-web) (ScanLead UI) · **private**
+
+```mermaid
+flowchart LR
+  UI[ScanLead Next.js] --> API[FastAPI Lead]
+  API --> A[Agents + playbooks]
+  A --> H[HTTP / DNS / ports]
+  A --> J[JS audit]
+  A --> L[Gemini Adapt / Reporter]
+  API --> S[(optional Mongo / Redis)]
+```
+
+---
 
 ### JobPilot AI — job application automation SaaS
 
@@ -147,6 +183,7 @@ Fastify API + BullMQ worker + Next.js UI. Honest WIP: core ETL/embed path is liv
 
 | Project | What it shows |
 |:--------|:--------------|
+| [ScanLead / vuln-agent](https://github.com/chaitanya07422/vuln-agent) | Multi-agent detect-only URL scanner + ScanLead UI (private) |
 | [GATE Mentor](https://github.com/chaitanya07422/gate-mentor) | NestJS + Next.js monorepo with Claude-assisted teaching (personal study product; phased stubs documented) |
 | [openai-image-gen](https://github.com/chaitanya07422/openai-image-gen) | Small, reliable Python CLI + Streamlit UI for OpenAI Images |
 | [AstraOS](https://github.com/chaitanya07422/Astraos) | Documented embedded-Linux learning path on Radxa ZERO 3W (experiments + roadmap; not a shipped OS) |
@@ -171,10 +208,11 @@ Technologies I use in professional or public projects (not a wishlist).
 | Area | Tools |
 |:-----|:------|
 | **Languages** | TypeScript, JavaScript, Python, Java, C++, SQL |
-| **Backend** | NestJS, Fastify, Node.js, REST, gRPC, BullMQ |
+| **Backend** | NestJS, FastAPI, Fastify, Node.js, REST, gRPC, BullMQ |
 | **Frontend** | React, Next.js, Vite, Tailwind CSS; Qt/QML (device UI experience) |
 | **Data** | MongoDB, PostgreSQL / Prisma, Redis, Qdrant |
 | **AI / ML** | Vertex AI, Gemini, OpenAI APIs, RAG / embeddings, Anthropic SDK, local SDXL / Whisper / TTS stacks |
+| **Security tooling** | Multi-agent scanners, JS static audit, detect-only HTTP probes, SSRF / RPS guards |
 | **Cloud / Ops** | GCP, OCI, Docker, Docker Compose, Nginx, PM2, systemd, GitHub Actions, GHCR |
 | **Quality / API hygiene** | Swagger / OpenAPI, Helmet, rate limiting, health checks (Terminus), structured logging |
 
