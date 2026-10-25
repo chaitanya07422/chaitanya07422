@@ -68,7 +68,7 @@ Public repos that show how I design and ship systems. Status labels match the co
 
 ### ScanLead — URL-only multi-agent vulnerability scanner
 
-**Private repos** · **Paste a URL you own → specialist agents → company-ready brief**
+**Paste a URL you own → specialist agents → company-ready brief**
 
 Authorized, detect-only scanner (no password sprays, no exploit payloads). FastAPI plugin agents + YAML playbooks feed a Next.js ScanLead UI: ownership attestation, per-agent Clear/Attention summary, LLM explanations, and a high-level abuse path.
 
@@ -86,8 +86,8 @@ Authorized, detect-only scanner (no password sprays, no exploit payloads). FastA
 - Deduped findings + stack-adaptive risk stories; “looks solid” only when zero low+ issues remain
 
 **Repos**
-- [vuln-agent](https://github.com/chaitanya07422/vuln-agent) (API / agents) · **private**
-- [vuln-agent-web](https://github.com/chaitanya07422/vuln-agent-web) (ScanLead UI) · **private**
+- [vuln-agent](https://github.com/chaitanya07422/vuln-agent) (API / agents)
+- [vuln-agent-web](https://github.com/chaitanya07422/vuln-agent-web) (ScanLead UI)
 
 ```mermaid
 flowchart LR
@@ -183,7 +183,7 @@ Fastify API + BullMQ worker + Next.js UI. Honest WIP: core ETL/embed path is liv
 
 | Project | What it shows |
 |:--------|:--------------|
-| [ScanLead / vuln-agent](https://github.com/chaitanya07422/vuln-agent) | Multi-agent detect-only URL scanner + ScanLead UI (private) |
+| [ScanLead / vuln-agent](https://github.com/chaitanya07422/vuln-agent) | Multi-agent detect-only URL scanner + ScanLead UI |
 | [GATE Mentor](https://github.com/chaitanya07422/gate-mentor) | NestJS + Next.js monorepo with Claude-assisted teaching (personal study product; phased stubs documented) |
 | [openai-image-gen](https://github.com/chaitanya07422/openai-image-gen) | Small, reliable Python CLI + Streamlit UI for OpenAI Images |
 | [AstraOS](https://github.com/chaitanya07422/Astraos) | Documented embedded-Linux learning path on Radxa ZERO 3W (experiments + roadmap; not a shipped OS) |
